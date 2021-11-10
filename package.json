@@ -20,7 +20,7 @@
     "cssnano": "^3.10.0",
     "get-port": "^3.2.0",
     "glob": "^7.1.2",
-    "htmlnano": "^0.1.6",
+    "htmlnano": "^0.1.7",
     "is-url": "^1.2.2",
     "js-yaml": "^3.10.0",
     "micromatch": "^3.0.4",
