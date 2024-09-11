@@ -33,7 +33,7 @@
     "postcss-value-parser": "^3.3.0",
     "posthtml": "^0.10.1",
     "resolve": "^1.4.0",
-    "serve-static": "^1.12.4",
+    "serve-static": "^1.16.1",
     "uglify-es": "^3.2.1",
     "strip-json-comments": "^2.0.1",
     "v8-compile-cache": "^1.1.0",
